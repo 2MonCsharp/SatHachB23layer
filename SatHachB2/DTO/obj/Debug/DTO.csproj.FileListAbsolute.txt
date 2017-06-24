@@ -1,0 +1,5 @@
+F:\Môn C#\ThucHanh\SatHachB2\DTO\bin\Debug\DTO.dll
+F:\Môn C#\ThucHanh\SatHachB2\DTO\bin\Debug\DTO.pdb
+F:\Môn C#\ThucHanh\SatHachB2\DTO\obj\Debug\DTO.csprojResolveAssemblyReference.cache
+F:\Môn C#\ThucHanh\SatHachB2\DTO\obj\Debug\DTO.dll
+F:\Môn C#\ThucHanh\SatHachB2\DTO\obj\Debug\DTO.pdb

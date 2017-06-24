@@ -1,0 +1,8 @@
+F:\Môn C#\ThucHanh\SatHachB2\ClassLibrary1\bin\Debug\DAL.dll
+F:\Môn C#\ThucHanh\SatHachB2\ClassLibrary1\bin\Debug\DAL.pdb
+F:\Môn C#\ThucHanh\SatHachB2\ClassLibrary1\bin\Debug\DTO.dll
+F:\Môn C#\ThucHanh\SatHachB2\ClassLibrary1\bin\Debug\DTO.pdb
+F:\Môn C#\ThucHanh\SatHachB2\ClassLibrary1\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+F:\Môn C#\ThucHanh\SatHachB2\ClassLibrary1\obj\Debug\DAL.dll
+F:\Môn C#\ThucHanh\SatHachB2\ClassLibrary1\obj\Debug\DAL.pdb
+F:\Môn C#\ThucHanh\SatHachB2\ClassLibrary1\bin\Debug\DAL.dll.config

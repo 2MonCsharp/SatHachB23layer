@@ -1,0 +1,9 @@
+F:\Môn C#\ThucHanh\SatHachB2\BLL\bin\Debug\BLL.dll
+F:\Môn C#\ThucHanh\SatHachB2\BLL\bin\Debug\BLL.pdb
+F:\Môn C#\ThucHanh\SatHachB2\BLL\obj\Debug\BLL.csprojResolveAssemblyReference.cache
+F:\Môn C#\ThucHanh\SatHachB2\BLL\obj\Debug\BLL.dll
+F:\Môn C#\ThucHanh\SatHachB2\BLL\obj\Debug\BLL.pdb
+F:\Môn C#\ThucHanh\SatHachB2\BLL\bin\Debug\DAL.dll
+F:\Môn C#\ThucHanh\SatHachB2\BLL\bin\Debug\DTO.dll
+F:\Môn C#\ThucHanh\SatHachB2\BLL\bin\Debug\DAL.pdb
+F:\Môn C#\ThucHanh\SatHachB2\BLL\bin\Debug\DTO.pdb
